@@ -1,6 +1,7 @@
-package utility;
+package com.github.nurkholik.GeneralJavaLib;
 import java.io.UnsupportedEncodingException;
 import java.security.SecureRandom;
+
 
 /**
  * 

@@ -66,21 +66,8 @@
 		    <artifactId>hibernate-core</artifactId>
 		    <version>${hibernate.version}</version>
 		</dependency>
-		<!-- 
-		<dependency>
-		    <groupId>com.github.nurkholik</groupId>
-		    <artifactId>java-utility-lib</artifactId>
-		    <version>1.0</version>
-		</dependency>
-		 -->
+		
 	</dependencies>
 	<url>https://github.com/nurkholik/java-utility-lib.git</url>
-	
-	<repositories>
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-	</repositories>
 	
 </project>
