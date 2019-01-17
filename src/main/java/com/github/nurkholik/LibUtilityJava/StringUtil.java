@@ -1,4 +1,4 @@
-package com.github.nurkholik.GeneralJavaLib;
+package com.github.nurkholik.LibUtilityJava;
 
 
 import java.util.ArrayList;
@@ -13,7 +13,9 @@ public final class StringUtil {
 	
 	public final static int COMPARE_EQUAL=1;
 	public final static int COMPARE_NOTEQUAL=2;
-		
+	
+	public static final int TEST = 0;
+	
 	public static String rightMostChar(String s,int len,boolean excluded){
 		byte[] data = s.getBytes();
 		int counter=0;

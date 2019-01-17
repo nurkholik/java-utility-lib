@@ -4,11 +4,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>com.github.nurkholik</groupId>
-	<artifactId>java-utility-lib</artifactId>
+	<groupId>com.gitlab.nurkholik</groupId>
+	<artifactId>lib-utility-java</artifactId>
 	<version>1.0.0</version>
-	<name>GeneralJavaLib</name>
-	<description>Custom Library for general function. Reduse update of code on another project with same function</description>
+	<name>lib-utility-java</name>
+	<description/>
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -68,6 +68,5 @@
 		</dependency>
 		
 	</dependencies>
-	<url>https://github.com/nurkholik/java-utility-lib.git</url>
 	
 </project>
