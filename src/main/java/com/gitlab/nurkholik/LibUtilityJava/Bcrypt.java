@@ -1,4 +1,4 @@
-package com.github.nurkholik.LibUtilityJava;
+package com.gitlab.nurkholik.LibUtilityJava;
 import java.io.UnsupportedEncodingException;
 import java.security.SecureRandom;
 

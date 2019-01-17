@@ -1,4 +1,4 @@
-package com.github.nurkholik.LibUtilityJava;
+package com.gitlab.nurkholik.LibUtilityJava;
 import java.util.HashMap;
 
 import com.google.gson.Gson;
